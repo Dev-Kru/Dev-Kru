@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm dev-kru</h1>
+<h1 align="center">Hi 👋, I'm Dev-Kru</h1>
 <h3 align="center">A Senior Full Stack Developer</h3>
 
 <p align="left"> <img
@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Quasar framework**
 
-- 📫 How to reach me **dev-kru@gmail.com**
+- 📫 How to reach me **william.reid0828@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
