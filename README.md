@@ -141,9 +141,6 @@
         href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" width="40" height="40" /> </a> <a
-        href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
-            alt="nestjs" width="40" height="40" /> </a> <a
         href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
             src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
             alt="nextjs" width="40" height="40" /> </a> <a
@@ -196,10 +193,7 @@
             width="40" height="40" /> </a> <a href="https://redux.js.org"
         target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-            alt="redux" width="40" height="40" /> </a> <a
-        href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
-            alt="rust" width="40" height="40" /> </a> <a
+            alt="redux" width="40" height="40" /> </a><a
         href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
             alt="sass" width="40" height="40" /> </a> <a
@@ -225,10 +219,6 @@
         href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
             alt="vuejs" width="40" height="40" /> </a> <a
-        href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg"
-            alt="vuepress" width="40" height="40" /> </a> <a
         href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img
             src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify"
             width="40" height="40" /> </a> <a href="https://webpack.js.org"
@@ -238,11 +228,7 @@
         href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg"
-            alt="xamarin" width="40" height="40" /> </a> <a
-        href="https://www.adobe.com/products/xd.html" target="_blank"
-        rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd"
-            width="40" height="40" /> </a> </p>
+            alt="xamarin" width="40" height="40" /> </a> </p>
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-kru&show_icons=true&locale=en&layout=compact"
